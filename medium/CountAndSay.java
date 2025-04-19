@@ -19,7 +19,7 @@ public class CountAndSay {
         return s;
     }
 
-    // Opcional: método main para testar
+    
     public static void main(String[] args) {
         CountAndSay solution = new CountAndSay();
         for (int i = 1; i <= 10; i++) {
